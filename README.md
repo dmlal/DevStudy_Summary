@@ -1,4 +1,4 @@
-# DevBook_Summary
+# DevStudy_Summary
 공부한 개발 컨텐츠를 요약 정리하는 레포지토리
 
 ## DevBook_Summary
