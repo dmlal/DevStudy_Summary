@@ -56,7 +56,7 @@
 > KOCW 운영체제2  </br>
 > KOCW 컴퓨터네트워크  </br>
 > 인프런 리눅스   </br>
-### Elastic Stack
+### Elastic 
 > 인프런 엘라스틱 서치  </br>
 > 유데미 엘라스틱 스택  </br>
 
